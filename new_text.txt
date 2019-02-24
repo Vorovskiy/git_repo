@@ -1,3 +1,6 @@
-hello; 
-1234;
-123456;
+print("hello world");
+print("everybody hello");
+print("hello");
+print("hello my dear friend");
+print("glad to see you");
+
