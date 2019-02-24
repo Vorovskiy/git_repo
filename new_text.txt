@@ -1,3 +1,4 @@
 hello 
 1234
 123456
+print("hello my dear friend");
